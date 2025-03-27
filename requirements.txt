@@ -1,0 +1,9 @@
+monai
+torch
+torchvision
+numpy
+pandas
+matplotlib
+h5py
+tqdm
+tensorboard
